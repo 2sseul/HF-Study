@@ -1,3 +1,9 @@
 # HF-Study
 Team : 언어의 연금술사  
 Following URL : https://huggingface.co/learn/llm-course/chapter0/1?fw=pt
+
+## Team Profile
+| | | | | |
+|:—:|:—:|:—:|:—:|:—:|
+| <img src="https://github.com/2sseul.png?size=120" width="120"/> | <img src="https://github.com/hyejin.png?size=120" width="120"/> | <img src="https://github.com/jis-archive.png?size=120" width="120"/> | <img src="https://github.com/zoominnzz.png?size=120" width="120"/> |
+| [@2sseul](https://github.com/2sseul) <br> | [@hyejinw](https://github.com/hyejinw) <br> | [@jis-archive](https://github.com/jis-archive) <br> | [@zoominnzz](https://github.com/zoominnzz) <br> |
