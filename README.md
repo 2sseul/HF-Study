@@ -6,4 +6,4 @@ Following URL : https://huggingface.co/learn/llm-course/chapter0/1?fw=pt
 | | | | |  |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://github.com/choijunho-AIDeveloper.png?size=120" width="120"/> | <img src="https://github.com/2sseul.png?size=120" width="120"/> | <img src="https://github.com/hyejin.png?size=120" width="120"/> | <img src="https://github.com/jis-archive.png?size=120" width="120"/> | <img src="https://github.com/zoominnzz.png?size=120" width="120"/> |
-| [@2sseul](https://github.com/choijunho-AIDeveloper) | [@2sseul](https://github.com/2sseul) | [@hyejinw](https://github.com/hyejinw) | [@jis-archive](https://github.com/jis-archive) | [@zoominnzz](https://github.com/zoominnzz) |
+| [@choijunho-AIDeveloper](https://github.com/choijunho-AIDeveloper) | [@2sseul](https://github.com/2sseul) | [@hyejinw](https://github.com/hyejinw) | [@jis-archive](https://github.com/jis-archive) | [@zoominnzz](https://github.com/zoominnzz) |
