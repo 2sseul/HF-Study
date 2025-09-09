@@ -4,7 +4,7 @@
 
 ## 2-1. Behind the pipeline
 
-![alt text](image.png)
+![alt text](./assets/image.png)
 
 ### 🔍 Pipeline의 3단계 구조
 
